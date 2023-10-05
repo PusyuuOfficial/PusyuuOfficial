@@ -4,5 +4,8 @@
 <p>何をしたいのやら</p>
 
 ## おすすめのソースコード
-1. <a href="https://github.com/PusyuuOfficial/PusyuuApp">プシューアプリ</a>
-2. <a href="https://github.com/PusyuuOfficial/PusyuuPageInPHP">プシューサービス(WWW関連の詰め合わせ)</a>
+<table>
+  <th>旧プシューページ</th><td><a href="https://github.com/PusyuuWanko/WebSite">ソースコード</a></td>
+  <th>チャイム付き時計カレンダー</th><td><a href="https://github.com/PusyuuWanko/ClockWithChime">ソースコード</a></td>
+  <th>ライトクリックカスタム</th><td><a href="https://github.com/PusyuuWanko/right_click_disable">ソースコード</a></td>
+</table>
