@@ -1,6 +1,7 @@
 # test code.
-
-<img src="https://pusyuuwanko.com/profile/assets/images/profile.jpg" alt="image" width="30%" height="auto"></img>
+<p style="dispay: flex; justify-content: center; align-items: center;">
+  <img src="https://pusyuuwanko.com/profile/assets/images/profile.jpg" alt="image" width="50%" height="auto" />
+</p>
 <p>何をしたいのやら、流石にこの部分がデフォルトのマークダウンだと寂しいので適当に取っ手をつけたようなものを作ってみましたｗ</p>
 <p>なので、かっこよさやデザインを見たいのであれば、私の<a href="http://pusyuuwanko.com" target="_blank">運営してるサービス</a>を見てもらったほうがよっぽどマシです。</p>
 
